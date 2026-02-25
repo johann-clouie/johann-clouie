@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Johann Clouie</h1>
 <h3 align="center">Senior Full-Stack Web Developer | SaaS Architect</h3>
 
----
-
 ### About Me
 
 🎓 Computer Science graduate from Mapúa University  

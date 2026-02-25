@@ -1,24 +1,19 @@
 <h1 align="center">👋 Hi, I'm Johann Clouie</h1>
 <h3 align="center">Senior Full-Stack Web Developer | SaaS Architect</h3>
 
-### About Me
+Most startups fail because their tech can't keep up with their growth. I make sure yours does.
+I help SaaS founders turn complex ideas into production-ready platforms that don't just work—they scale. With an accelerated degree in Computer Science and 4+ years of "in-the-trenches" experience with rapid-growth startups, I bridge the gap between business goals and technical execution.
 
-🎓 Computer Science graduate from Mapúa University  
-⚡ 4+ years building production-grade SaaS platforms  
-🌍 Remote-first engineer collaborating across global teams  
-🏗️ Passionate about system design, scalability, and performance  
+### ❄️ What I bring to your team:
 
-### What I Build
+✔️ Zero to One: Architecting MVPs that are ready for Series A/B scaling.
 
-✔ Multi-tenant SaaS platforms  
-✔ Real-time collaboration systems  
-✔ Financial dashboards & analytics  
-✔ Marketplace infrastructures  
-✔ Scalable API architectures  
-✔ High-performance frontend systems  
+✔️ Performance-First: Reducing latency and optimizing Core Web Vitals to improve user retention.
+
+✔️ Full-Stack Mastery: Specialized in the T3 Stack (Next.js, TypeScript, Tailwind, Prisma) and AWS.
 
 ---
 
 <p align="center">
-  <i>⚙️ Building the future, one scalable system at a time.</i>
+  <i>Let’s build something that scales. 💪</i>
 </p>
